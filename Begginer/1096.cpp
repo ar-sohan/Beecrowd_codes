@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+    /**
+     * Escreva a sua solução aqui
+     * Code your solution here
+     * Escriba su solución aquí
+     */
+      for(int i=1; i<10; i+=2){
+         cout << "I=" << i << " J=" << 7 << endl;
+         cout << "I=" << i << " J=" << 6 << endl;
+         cout << "I=" << i << " J=" << 5 << endl;
+     }
+    return 0;
+}
